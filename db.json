@@ -1,0 +1,30 @@
+{
+  "employee": [
+    {
+      "name": "hgbnb ",
+      "last": "kjhgf",
+      "email": "kjhg",
+      "phone": "jh",
+      "salary": "ikujhg",
+      "id": 9
+    },
+    {
+      "name": "sczdv",
+      "last": "vx",
+      "email": "cxv",
+      "phone": "cvxcv",
+      "salary": "cvxcv",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
